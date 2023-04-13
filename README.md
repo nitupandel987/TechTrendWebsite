@@ -37,7 +37,8 @@
  <br> 
  <br>
  <h2>Main Page</h2>
- ![1](https://user-images.githubusercontent.com/76653397/231660119-7ba0b3ab-fbcf-42a3-ba9b-f4984fa86f0e.png)
+![1](https://user-images.githubusercontent.com/76653397/231674195-094614c2-6747-4865-ac8e-5bbd30149848.png)
+
  <br>
  
  <h2>Log In</h2> 
